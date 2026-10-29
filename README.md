@@ -4,3 +4,5 @@ My detailed mathematical exploration of the four problems on the 2024 Ross Mathe
 - Problem 2: Analysis of "magic" trick and exploration of mathematics behind similar / tweaked protocols
 - Problem 3: Exploration of recursively defined "fashionable" numbers
 - Problem 4: Defining, modifying, and refining the concept of "squarilarity"
+
+Note: The application problems were created by the Ross Mathematics Program and are only included for context. The notebook work is my own. 
