@@ -3,4 +3,4 @@ My detailed mathematical exploration of the four problems on the 2024 Ross Mathe
 - Problem 1: Irrational roots, irrational solutions to polynomial equations, and generalizations of sums of roots
 - Problem 2: Analysis of "magic" trick and exploration of mathematics behind similar / tweaked protocols
 - Problem 3: Exploration of recursively defined "fashionable" numbers
-- Problem 4: Defining, modifying, and refining the concept of "squarilarity".
+- Problem 4: Defining, modifying, and refining the concept of "squarilarity"
