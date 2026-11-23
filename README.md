@@ -6,3 +6,5 @@ My detailed mathematical exploration of the four problems on the 2024 Ross Mathe
 - Problem 4: Defining, modifying, and refining the concept of "squarilarity"
 
 Note: The application problems were created by the Ross Mathematics Program and are only included for context. The notebook work is my own. 
+
+**[Click here to view my 101-page mathematical notebook](https://raw.githubusercontent.com/joeygruman1-coder/ross-mathematics-application/main/ross_2024_application_notebook.pdf)** 
